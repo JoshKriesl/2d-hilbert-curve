@@ -1,0 +1,15 @@
+{
+    "name": "@kriesl/2d-hilbert-curve",
+    "version": "1.0.0",
+    "description": "Two way 2d hilbert curve mapping for a square divided into n by n cells, for n a power of 2, with integer coordinates",
+    "license": "MIT",
+    "repository": "JoshKriesl/2d-hilbert-curve",
+    "main": "index.js",
+    "keywords": [
+      "hilbert",
+      "space-filling",
+      "curve",
+      "fractal",
+      "indexing"
+    ]
+  }
